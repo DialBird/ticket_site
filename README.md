@@ -16,6 +16,11 @@
   - name
   - age
   - sex
+* Organization
+  - name
+  - detail
+  - member_count
+  - owner_id
 * Event
   - name
   - detail
